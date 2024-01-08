@@ -1,0 +1,17 @@
+{
+  "name": "tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "alt_way.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
